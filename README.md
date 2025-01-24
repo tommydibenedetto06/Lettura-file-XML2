@@ -1,9 +1,5 @@
 <html>
-<body>
-
-<h2></h2>
 <body onload="LetturaFile()">
-
 <h2>anagrafica</h2>
 <TABLE id="t1">
 <style>
