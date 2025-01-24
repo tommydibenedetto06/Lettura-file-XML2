@@ -55,7 +55,7 @@ function LetturaFile()
 {
 let xhr = new XMLHttpRequest();
 
-xhr.open("GET", "anagrafica.txt",true); //si definisce l'apertura di un file di testo presente nell'host in locale
+xhr.open("GET", "https://raw.githubusercontent.com/tommydibenedetto06/Lettura-file-XML2/refs/heads/main/anagrafica",true); //si definisce l'apertura di un file di testo presente nell'host in locale
 xhr.send(); // si invia la richiesta al server
 
  xhr.onload = function() {
