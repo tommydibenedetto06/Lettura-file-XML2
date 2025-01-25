@@ -10,4 +10,49 @@
         <dataNascita>1985-05-12</dataNascita>
         <codiceFiscale>RSSMRA85M12H501Z</codiceFiscale>
     </persona>
+    <persona>
+        <nome>Giulia</nome>
+        <cognome>Bianchi</cognome>
+        <indirizzo>Via Verdi 5</indirizzo>
+        <citta>Roma</citta>
+        <cap>00100</cap>
+        <telefono>+39 987 654 3210</telefono>
+        <email>giulia.bianchi@example.com</email>
+        <dataNascita>1992-03-25</dataNascita>
+        <codiceFiscale>BNCGLI92C25H501A</codiceFiscale>
+    </persona>
+    <persona>
+        <nome>Alessandro</nome>
+        <cognome>Verdi</cognome>
+        <indirizzo>Corso Italia 22</indirizzo>
+        <citta>Napoli</citta>
+        <cap>80100</cap>
+        <telefono>+39 345 678 9012</telefono>
+        <email>alessandro.verdi@example.com</email>
+        <dataNascita>1978-11-14</dataNascita>
+        <codiceFiscale>VRDLSS78S14H501B</codiceFiscale>
+    </persona>
+    <persona>
+        <nome>Elena</nome>
+        <cognome>Neri</cognome>
+        <indirizzo>Piazza Dante 8</indirizzo>
+        <citta>Firenze</citta>
+        <cap>50100</cap>
+        <telefono>+39 123 456 7891</telefono>
+        <email>elena.neri@example.com</email>
+        <dataNascita>1989-07-30</dataNascita>
+        <codiceFiscale>NRLENE89L70H501C</codiceFiscale>
+    </persona>
+    <persona>
+        <nome>Federico</nome>
+        <cognome>Conti</cognome>
+        <indirizzo>Via Torino 18</indirizzo>
+        <citta>Torino</citta>
+        <cap>10100</cap>
+        <telefono>+39 987 654 3211</telefono>
+        <email>federico.conti@example.com</email>
+        <dataNascita>1990-01-18</dataNascita>
+        <codiceFiscale>CNTFRC90A18H501D</codiceFiscale>
+    </persona>
 </anagrafiche>
+
