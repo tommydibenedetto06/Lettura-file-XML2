@@ -92,8 +92,7 @@
             var dettagli = documentoAnagrafica.responseXML.getElementsByTagName("persona"); // ottieni l'oggetto da Anagrafica e tutti gli elementi di persona
             var table = "<tr><th> Nome </th><th> Cognome </th><th> Indirizzo </th><th> Città </th><th> CAP </th><th> Telefono </th><th> Email </th><th> Data di Nascita </th><th> Codice Fiscale </th></tr>"; // Intestazioni della tabella
 
-            // Cicla attraverso ogni elemento "utente"
-            for (i = 0; i < dettagli.length; i++)
+            for (i = 0; i < dettagli.length; i++)  // Cicla attraverso ogni elemento "persona"
             {
                 table += "<tr><td>" +
 
