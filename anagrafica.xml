@@ -1,13 +1,13 @@
-{
-"anagrafica" :
-[
-{
-    "nome":"olio",
-    "cognome":"Martini",
-    "via": "via Matteotti 2",
-    "citta": "Milano",
-    "codice fiscale":"RSSMRA85M01H501Z",
-    "email": "Martini97@gmail.com"
-}
-]
-}
+<anagrafiche>
+    <persona>
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <indirizzo>Via Roma 10</indirizzo>
+        <citta>Milano</citta>
+        <cap>20100</cap>
+        <telefono>+39 123 456 7890</telefono>
+        <email>mario.rossi@example.com</email>
+        <dataNascita>1985-05-12</dataNascita>
+        <codiceFiscale>RSSMRA85M12H501Z</codiceFiscale>
+    </persona>
+</anagrafiche>
